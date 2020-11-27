@@ -3,3 +3,4 @@ For this reason, the original file doesn't have everything that the theme has, b
 that this file is required, I tried to make the original file again. The file is called base for theme.php
 
 Although the theme is quite simplistic, everything should be working as intended!
+
